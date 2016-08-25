@@ -1,0 +1,13 @@
+.small-image{
+  width: 60px;
+}
+
+.img-thumbnails{
+  padding-left: 0px;
+}
+
+.list-group-item{
+  width: 30%;
+  display: inline-block;
+  vertical-align: top;
+}
